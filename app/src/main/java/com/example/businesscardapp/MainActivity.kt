@@ -37,9 +37,9 @@ class MainActivity : ComponentActivity() {
                     color = Color(0xFF082540)
                 ) {
                     BusinessCardApp(
-                        phonenumber = "+91 7838069691",
+                        phonenumber = "+91 1234567899",
                         socialMediaHandle = "@github.com/mrfarhankhan007",
-                        emailId = "fk95034@gmail.com",
+                        emailId = "NoEmail@gmail.com",
                         Name = "Farhan Khan",
                         Designation = "Kotlin Android Developer",
                         androidname = "android"
