@@ -1,2 +1,2 @@
 # BusinessCardApp
-![]("BusinessCardimage - Copy.png")
+![](biznessorig)
