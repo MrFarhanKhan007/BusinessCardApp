@@ -1,2 +1,4 @@
 # BusinessCardApp
-![](biznessorig.png)
+<!-- ![](biznessorig.png) -->
+
+<img src="./biznessorig.png" width="100" />
