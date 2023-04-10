@@ -1,2 +1,2 @@
 # BusinessCardApp
-![](biznessorig)
+![](biznessorig.png)
